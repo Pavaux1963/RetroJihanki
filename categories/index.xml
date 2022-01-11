@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on レトロ自販機巡り</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on レトロ自販機巡り</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 16 Dec 2021 20:41:55 +0900</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>伊勢崎市</title>
+      <link>/categories/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82/</link>
+      <pubDate>Thu, 16 Dec 2021 20:41:55 +0900</pubDate>
+      
+      <guid>/categories/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>群馬県</title>
+      <link>/categories/%E7%BE%A4%E9%A6%AC%E7%9C%8C/</link>
+      <pubDate>Thu, 16 Dec 2021 20:41:55 +0900</pubDate>
+      
+      <guid>/categories/%E7%BE%A4%E9%A6%AC%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>埼玉県</title>
+      <link>/categories/%E5%9F%BC%E7%8E%89%E7%9C%8C/</link>
+      <pubDate>Thu, 16 Dec 2021 19:29:18 +0900</pubDate>
+      
+      <guid>/categories/%E5%9F%BC%E7%8E%89%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美里町</title>
+      <link>/categories/%E7%BE%8E%E9%87%8C%E7%94%BA/</link>
+      <pubDate>Thu, 16 Dec 2021 19:29:18 +0900</pubDate>
+      
+      <guid>/categories/%E7%BE%8E%E9%87%8C%E7%94%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高崎市</title>
+      <link>/categories/%E9%AB%98%E5%B4%8E%E5%B8%82/</link>
+      <pubDate>Thu, 16 Dec 2021 18:24:55 +0900</pubDate>
+      
+      <guid>/categories/%E9%AB%98%E5%B4%8E%E5%B8%82/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
