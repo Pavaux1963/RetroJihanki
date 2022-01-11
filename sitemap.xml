@@ -90,5 +90,9 @@
     <loc>/blog/archives/</loc>
   </url><url>
     <loc>/blog/</loc>
+  </url><url>
+    <loc>/info/</loc>
+  </url><url>
+    <loc>/about/</loc>
   </url>
 </urlset>
