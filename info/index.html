@@ -88,12 +88,11 @@
 			<div class="primary">
 			
 <main class="main" role="main">
-	<article class="post">
-		<header class="post__header">
-			<h1 class="post__title">情報提供について</h1>
-			
-		</header><div class="content post__content clearfix">
-			<hr>
+    <article class="post">
+        <header class="post__header">
+            <h1 class="post__title">情報提供について</h1> 
+        </header><div class="content post__content clearfix">
+            <hr>
 当サイトではレトロ自販機に関する情報を募集しています！<br>
 ドライブインに設置されているものから、道端に放置されているものでも構いません。<br>
 レトロ自販機の場所情報や写真をお持ちの方は、下記のURLから情報提供をお願いします！<br><br>
@@ -104,11 +103,33 @@
 ・提供画像は基本オリジナルで、そうでない場合は注記をお願いします。<br>
 ・正確な場所が分からない場合は、場所のヒントだけでも構いません。<br>
 ・いつの情報・写真なのかを表記していただけると助かります。<br>
-		</div>
-	</article>
+        </div>
+    </article>
 </main>
 
-
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "retro-jihanki-tk" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+ 
 			</div>
 			<aside class="sidebar"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">

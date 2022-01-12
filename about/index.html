@@ -88,12 +88,11 @@
 			<div class="primary">
 			
 <main class="main" role="main">
-	<article class="post">
-		<header class="post__header">
-			<h1 class="post__title">概要</h1>
-			
-		</header><div class="content post__content clearfix">
-			<hr>
+    <article class="post">
+        <header class="post__header">
+            <h1 class="post__title">概要</h1> 
+        </header><div class="content post__content clearfix">
+            <hr>
 日本全国に点在するレトロ自販機の写真をアップしています。<br>
 ハンバーガーや麺類などのレトロ自販機は最近人気が高まっており、メディアでもよく取り上げられています。<br>
 しかし、古いドリンクや乾電池の自販機などは非稼働のまま放置され、日の目を浴びることなく徐々に撤去されています。<br>
@@ -104,11 +103,33 @@
 <hr style="border-top: 1px dashed #ccc;">
 ・レトロ自販機に関する<a href="/info">情報提供</a>をお待ちしてます<br>
 ・訪問時の情報を掲載しているので、情報が古くなっている可能性があります<br>
-		</div>
-	</article>
+        </div>
+    </article>
 </main>
 
-
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "retro-jihanki-tk" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+ 
 			</div>
 			<aside class="sidebar"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
